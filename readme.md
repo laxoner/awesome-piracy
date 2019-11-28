@@ -1015,6 +1015,9 @@ premium services
 - [3DSISO](http://www.3dsiso.com/) Nintendo 3DS ROMs downloads forum.
 - [3DSCIA.com](https://www.3dscia.com/) DDL links for 3DS CIA files.
 - [Ziperto](https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) DDL link site primarily for Nintendo games.
+  [AlvRo's Collection](https://docs.google.com/spreadsheets/d/e/2PACX-1vSt88LJF-rLO8ICAVoTIRNrPCEAUeZfqF0wjFN5FwEZiiHyFyATemRJ20BA6BfmuEex8deWt8hMdZUD/pubhtml) Google Drive for microsoft/sony/nintendo/othersystem games.
+  [onedrive NSW collection](https://onedrive.live.com/view.aspx?resid=F3F7DFD6664CA747!129&ithint=file%2cdocx&authkey=!ACJ8cF1Ovif3WlY) one drive collection of nintendo switch games 
+  [XCI NSW google drive pack](https://drive.google.com/drive/folders/1VAxbSUcVindLxf9pVWvh64B-0Q8aM6xZ)
 
 ### Console Games
 - [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) A place to share working Playstation 4 PKGs
